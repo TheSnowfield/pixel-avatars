@@ -14,16 +14,10 @@ Use `template/prototype.psd` to start a new character.
 
 ## Icon Series
 ### Ar-Tonelico 1
-<image src="./res/icon-aurica.png" height=64/>
-<image src="./res/icon-misha.png" height=64/>
-<image src="./res/icon-shurelia-neko.png" height=64/>
-<image src="./res/icon-shurelia-normal.png" height=64/>
+<image src="./res/icon-aurica.png" height=64/> <image src="./res/icon-misha.png" height=64/> <image src="./res/icon-shurelia-neko.png" height=64/> <image src="./res/icon-shurelia-normal.png" height=64/>
 
 ### Lucky Star
-<image src="./res/icon-konata.png" height=64/>
-<image src="./res/icon-kagami.png" height=64/>
-<image src="./res/icon-tsukasa.png" height=64/>
-<image src="./res/icon-miyuki.png" height=64/>
+<image src="./res/icon-konata.png" height=64/> <image src="./res/icon-kagami.png" height=64/> <image src="./res/icon-tsukasa.png" height=64/> <image src="./res/icon-miyuki.png" height=64/>
 
 ## LICENSE
 Licensed under CC BY-NC-ND 4.0.  
